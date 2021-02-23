@@ -30,3 +30,20 @@
 
 <br />
 <br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!---BLOG-POST-LIST:START --->
+<!---BLOG-POST-LIST:END --->
+
+---
+
+  <summary> GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErnestJo&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/
+[instagram]: https://instagram.com/nesty_jo
+[linkedin]: https://linkedin.com/in/ernest-joseph
