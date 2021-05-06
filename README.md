@@ -3,10 +3,10 @@
 ## This is the place where I am changing coffee to code and break things :rofl:
 
 - 🔭 I’m currently working on something cool :[PCMS](https://github.com/ErnestJo/police-case-management-system-fyp):
-- 🌱 I’m currently learning React and BSc in Computer Science
+- 🌱 I'm js Developer. Getting there to Full Stake developer
 - 🥅 2021 Goals: Contribute more by using github and git
 
-- 💬 Ask me about anything related to Typescript/Node/Python/Spring or Android native
+- 💬 My goal is to become a sysyem analyst expert
 
 - ⚡ Fun fact: I :love Footbal
 
@@ -44,6 +44,6 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErnestJo&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/ery_joh
 [instagram]: https://instagram.com/nesty_jo
 [linkedin]: https://linkedin.com/in/ernest-joseph
