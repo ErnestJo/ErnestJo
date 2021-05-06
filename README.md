@@ -6,7 +6,7 @@
 - 🌱 I'm js Developer. Getting there to Full Stake developer
 - 🥅 2021 Goals: Contribute more by using github and git
 
-- 💬 My goal is to become a sysyem analyst expert
+- 💬 My goal is to become a system analyst expert
 
 - ⚡ Fun fact: I :love Footbal
 
