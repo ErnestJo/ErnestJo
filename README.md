@@ -10,6 +10,14 @@
 
 - ⚡ Fun fact: I :love Footbal
 
+## 😂 Here is a random joke that'll make you laugh!
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ErnestJo)
+
+- ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestJo&theme=blue-green)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
