@@ -2,7 +2,7 @@
 
 ## This is the place where I am changing coffee to code and break things :rofl:
 
-- 🔭 I’m currently working on something cool :[PCMS](https://github.com/ErnestJo/police-case-management-system-fyp):
+- 🔭 I’m currently working on something cool :[PCMS](https://github.com/ErnestJo/case):
 - 🌱 I'm js Developer. Getting there to Full Stake developer
 - 🥅 2021 Goals: Contribute more by using github and git
 
