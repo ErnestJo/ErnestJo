@@ -1,10 +1,10 @@
-### Hi there, I'm ErnestJo <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Ernest Joseph Nzalawahe <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## This is the place where I am changing coffee to code and break things :rofl:
 
 - 🔭 I’m currently working on something cool :[PCMS](https://github.com/ErnestJo/case):
 - 🌱 I'm js Developer. Getting there to Full Stake developer
-- 🥅 2021 Goals: Contribute more by using github and git
+- 🥅 2022 Goals: Contribute more by using github and git
 
 - 💬 My goal is to become a system analyst expert
 
