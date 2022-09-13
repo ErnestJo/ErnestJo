@@ -3,12 +3,12 @@
 ## This is the place where I am changing coffee to code and break things :rofl:
 
 - 🔭 I’m currently working on something cool :[PCMS](https://github.com/ErnestJo/case):
-- 🌱 I'm js Developer. Getting there to Full Stake developer
+- 🌱 I'm C# , Java and Javascript Developer. Getting there to Full Stake developer
 - 🥅 2022 Goals: Contribute more by using github and git
 
 - 💬 My goal is to become a system analyst expert
 
-- ⚡ Fun fact: I :love Footbal
+- ⚡ Fun fact: I : love Footbal
 
 ## 😂 Here is a random joke that'll make you laugh!
 
