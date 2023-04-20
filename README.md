@@ -3,8 +3,8 @@
 ## This is the place where I am changing coffee to code and break things :rofl:
 
 - 🔭 I’m currently working on something cool 
-- 🌱 I'm C# , Java and Javascript Developer. Getting there to Full Stake developer
-- 🥅 2022 Goals: Contribute more by using github and git
+- 🌱 I'm Java , Javascript and C# ,Developer. Getting there to Full Stake developer
+- 🥅 2023 Goals: Contribute more by using github and git
 
 - 💬 My goal is to become a system analyst expert
 
